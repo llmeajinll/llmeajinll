@@ -84,12 +84,11 @@
 ## 🌱 AI와 함께 개발한 기록
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llmeajinll/llmeajinll/HEAD/claude-stats/claude-stats.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llmeajinll/llmeajinll/HEAD/claude-stats/claude-stats-light.svg"/>
-  <img src="https://raw.githubusercontent.com/llmeajinll/llmeajinll/HEAD/claude-stats/claude-stats-light.svg" width="520" alt="Claude Code 사용 통계: 세션·요청 수·사용한 날·최장 연속 사용일과 최근 26주 잔디"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./ai-grass/dark.svg"/>
+  <img src="./ai-grass/light.svg" width="100%" alt="최근 1년 동안 Claude Code·Codex에 보낸 요청 수를 날짜별로 칠한 잔디 그래프"/>
 </picture>
 
-<sub>이 컴퓨터의 Claude Code 기록으로 매일 자동 갱신됩니다(<a href="https://github.com/Clovis500c/claude-stats">claude-stats</a>). 집계한 숫자만 올라가고 대화 내용은 올라가지 않습니다.</sub>
+<sub>Claude Code·Codex에 직접 보낸 요청 수(하위 에이전트 제외, 어제까지)입니다. 이 컴퓨터의 기록으로 매일 자동 갱신되며(<a href="https://github.com/chuqk/cc-grass">cc-grass</a>), 집계한 숫자만 올라가고 대화 내용은 올라가지 않습니다.</sub>
 
 <br/><br/>
 
